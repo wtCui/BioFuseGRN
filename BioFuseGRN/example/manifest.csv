@@ -1,0 +1,2 @@
+dataset,network,expression,reference,tfs,prior_edges,family,promoter,go,pathways
+demo,synthetic,example/demo/expression.csv,example/demo/reference.csv,example/demo/tfs.txt,,example/demo/family_embeddings.csv,example/demo/promoter_embeddings.csv,example/demo/go.csv,example/demo/pathways.csv
