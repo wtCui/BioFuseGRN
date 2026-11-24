@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: If you use this software, please cite the associated article.
+title: BioFuseGRN
+authors:
+  - family-names: Cui
+    given-names: Wentao
+repository-code: https://github.com/wtCui/BioFuseGRN
+preferred-citation:
+  type: article
+  title: Improving Single-Cell Gene Regulatory Network Inference Through Adaptive Biological Knowledge Fusion
+  authors:
+    - {family-names: Cui, given-names: Wentao}
+    - {family-names: Fu, given-names: Zhican}
+    - {family-names: Hou, given-names: Runtong}
+    - {family-names: Zhang, given-names: Jingcheng}
+    - {family-names: Zhang, given-names: Xuejie}
+    - {family-names: Cai, given-names: Junlan}
+    - {family-names: Miao, given-names: Xiaoye}
+    - {family-names: Chen, given-names: Yong}
+    - {family-names: Tao, given-names: Tietuo}
+    - {family-names: Lu, given-names: Peng}
+  journal: International Journal of Molecular Sciences
+  year: 2026
+  volume: 27
+  issue: 23
+  article-number: '10567'
+  doi: 10.3390/ijms272310567
